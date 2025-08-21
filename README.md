@@ -4,7 +4,7 @@
 
 ---
 
-![banner](https://img.freepik.com/free-vector/biotechnology-science-concept-with-dna-strand_1017-30360.jpg?w=1380)  
+![banner](https://github.com/fabricioestrada-source/Grupo-7/blob/main/grupo.jpg)  
 
 ---
 
