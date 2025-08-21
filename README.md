@@ -1,5 +1,5 @@
 # 🌱✨ Carátula de Presentación ✨🌱  
-## Curso: **Biodiseño**  
+## Curso: **Biodiseño - Grupo 7**  
 ### Carrera: **Ingeniería Biomédica**
 
 ---
