@@ -8,16 +8,16 @@
 
 ---
 
-## 👩‍🔬 Integrantes del Grupo (6)
+## 👩‍🔬 Integrantes del Grupo 
 
 ---
 
 ### 👤 Integrante 1
 ![Foto1](https://via.placeholder.com/150)  
-- **Nombre:** Juan Pérez  
-- **Edad:** 21 años  
-- **DNI:** 12345678  
-- **Correo:** juan.perez@uni.edu.pe  
+- **Nombre:** Fabricio EStrada  
+- **Edad:** 18 años  
+- **DNI:** 70635581  
+- **Correo:** fabricio.estrada@upch.pe 
 - **Misión:** “Aplicar el biodiseño para crear soluciones innovadoras en salud que mejoren la calidad de vida”.
 
 ---
